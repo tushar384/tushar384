@@ -1,22 +1,17 @@
-## Hi there 👋
 
-<!--
-**tushar384/tushar384** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I'm [Swapnil Chavan]!
 
-Here are some ideas to get you started:
+## 🚀💫 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+- 🔭 I’m currently working on **Machine Learning and Advanced SQL Projects** to sharpen my analytical skills.
+- 👯 I’m looking to collaborate on **Data Analysis, SQL, and Power BI Projects** with like-minded enthusiasts.
+- 🌱 I’m currently learning **Machine Learning & Data Analytics** with a focus on **Pandas** and **SQL** for end-to-end data workflows.
+- 💬 Ask me about **Technology Trends and Personal Development Tips**.
+- 📫 How to reach me:  **chavanswapnil0990@gmail.com**
+- 😄 Pronouns: He/Him
+- ⚡ **Fun Fact**: I believe every dataset has a hidden story waiting to be discovered!
 
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/swapnil-chavan-365950205/) 
